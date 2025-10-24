@@ -1,9 +1,13 @@
 # Barking Seal Design
 
-https://barkingseal.design/
+I have acquired the domain [barkingseal.design](https://barkingseal.design/) with the intention of possible future use.
 
-General website for my semi-fictional company: [Barking Seal Design](https://barkingseal.design/). At the moment it just links to my other websites.
+[Barking Seal Design](https://barkingseal.design/) is the name I put on my graphic design work to seem more professional.
 
--    https://pinniped.page/ (**the original:** fun, games, tools, etc.)
--    https://ite.fyi/ (**the short:** links, files, etc.)
--    https://bmg.engineer/ (**the professional:** serious stuff)
+There’s nothing on the website at the moment.
+
+My other domains:
+
+-    **THE ORIGINAL:** [pinniped.page](https://pinniped.page/) — fun, games, tools, etc.
+-    **THE SHORT:** [ite.fyi](https://ite.fyi/) — links, files, etc.
+-    **THE PROFESSIONAL:** [bmg.engineer](https://bmg.engineer/) — serious stuff, files, etc.
