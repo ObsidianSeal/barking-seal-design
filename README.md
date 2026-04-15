@@ -1,5 +1,7 @@
 # Barking Seal Design
 
+[![CodeFactor](https://www.codefactor.io/repository/github/obsidianseal/barking-seal-design/badge)](https://www.codefactor.io/repository/github/obsidianseal/barking-seal-design)
+
 I have acquired the domain [barkingseal.design](https://barkingseal.design/) with the intention of possible future use.
 
 [Barking Seal Design](https://barkingseal.design/) is the name I put on my graphic design work to seem more professional.
